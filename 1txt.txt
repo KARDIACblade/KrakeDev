@@ -1,3 +1,5 @@
-Nombre Bladimir Paillacho
-Edad 35 
-Hobby Origami
+Nombre: Bladimir Paillacho
+
+Hobby: Origami
+Pelicula favorita : Spiderman
+Comida Favorita: Camaron apanado
