@@ -1,2 +1,5 @@
 git clone : <sirve para copiar un repositorio de Git desde internet a nuestra computadora>
 git commit : < sirve para guardar  los cambios realizados con un mensaje>
+git push: <sube los cambios a Hit Hub>
+git status:<muestra el estado acutal de los archivos, que archivos cambiaron y si la computadora esta sincronizada con Git Hub>
+git add:<prepara un archivo nuevo o modificado para que sea incluido en el proximo commit>
